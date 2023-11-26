@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-24T18:55:05 IST" name="Default suite" finished-at="2023-11-24T19:00:00 IST" duration-ms="294358">
+    <groups>
+    </groups>
+    <test started-at="2023-11-24T18:55:05 IST" name="Default test" finished-at="2023-11-24T19:00:00 IST" duration-ms="294358">
+      <class name="testsScenario.AmazonTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testsScenario.AmazonTest@75d3a5e0]" started-at="2023-11-24T18:55:05 IST" name="setUp" finished-at="2023-11-24T18:55:36 IST" duration-ms="31015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySignup()[pri:0, instance:testsScenario.AmazonTest@75d3a5e0]" started-at="2023-11-24T18:55:36 IST" name="verifySignup" finished-at="2023-11-24T18:55:40 IST" duration-ms="3614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignup -->
+        <test-method signature="verifyemail()[pri:1, instance:testsScenario.AmazonTest@75d3a5e0]" started-at="2023-11-24T18:55:40 IST" name="verifyemail" finished-at="2023-11-24T18:55:40 IST" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyemail -->
+        <test-method signature="verifycontinue()[pri:2, instance:testsScenario.AmazonTest@75d3a5e0]" started-at="2023-11-24T18:55:40 IST" name="verifycontinue" finished-at="2023-11-24T18:55:43 IST" duration-ms="2208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycontinue -->
+        <test-method signature="passwordFillField()[pri:3, instance:testsScenario.AmazonTest@75d3a5e0]" started-at="2023-11-24T18:55:43 IST" name="passwordFillField" finished-at="2023-11-24T18:55:43 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passwordFillField -->
+        <test-method signature="signInClick()[pri:4, instance:testsScenario.AmazonTest@75d3a5e0]" started-at="2023-11-24T18:55:43 IST" name="signInClick" finished-at="2023-11-24T18:55:49 IST" duration-ms="6581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInClick -->
+        <test-method signature="searchproduct()[pri:5, instance:testsScenario.AmazonTest@75d3a5e0]" started-at="2023-11-24T18:55:49 IST" name="searchproduct" finished-at="2023-11-24T18:55:53 IST" duration-ms="3682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchproduct -->
+        <test-method signature="item()[pri:6, instance:testsScenario.AmazonTest@75d3a5e0]" started-at="2023-11-24T18:55:53 IST" name="item" finished-at="2023-11-24T18:56:02 IST" duration-ms="8857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- item -->
+        <test-method signature="addToCartTest()[pri:7, instance:testsScenario.AmazonTest@75d3a5e0]" started-at="2023-11-24T18:56:02 IST" name="addToCartTest" finished-at="2023-11-24T18:56:05 IST" duration-ms="2911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartTest -->
+        <test-method signature="simpleClickTest()[pri:8, instance:testsScenario.AmazonTest@75d3a5e0]" started-at="2023-11-24T18:56:05 IST" name="simpleClickTest" finished-at="2023-11-24T18:56:15 IST" duration-ms="10402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleClickTest -->
+        <test-method signature="addToCartButtonTest()[pri:9, instance:testsScenario.AmazonTest@75d3a5e0]" started-at="2023-11-24T18:56:15 IST" name="addToCartButtonTest" finished-at="2023-11-24T18:56:29 IST" duration-ms="13577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartButtonTest -->
+        <test-method signature="proceedToCheckOutTest()[pri:10, instance:testsScenario.AmazonTest@75d3a5e0]" started-at="2023-11-24T18:56:29 IST" name="proceedToCheckOutTest" finished-at="2023-11-24T18:56:50 IST" duration-ms="21286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceedToCheckOutTest -->
+        <test-method signature="useThisAddressTest()[pri:11, instance:testsScenario.AmazonTest@75d3a5e0]" started-at="2023-11-24T18:56:50 IST" name="useThisAddressTest" finished-at="2023-11-24T18:59:11 IST" duration-ms="140420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- useThisAddressTest -->
+        <test-method signature="returnToOrderTest()[pri:12, instance:testsScenario.AmazonTest@75d3a5e0]" started-at="2023-11-24T18:59:11 IST" name="returnToOrderTest" finished-at="2023-11-24T18:59:40 IST" duration-ms="29397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnToOrderTest -->
+        <test-method signature="invoiceForTheProductTest()[pri:13, instance:testsScenario.AmazonTest@75d3a5e0]" started-at="2023-11-24T18:59:40 IST" name="invoiceForTheProductTest" finished-at="2023-11-24T19:00:00 IST" duration-ms="19746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoiceForTheProductTest -->
+      </class> <!-- testsScenario.AmazonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
